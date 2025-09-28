@@ -1,19 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
- ㅤ ㅤ  [![TEAM HARMONIX](https://github-stats-alpha.vercel.app/api?username=Sagexdd "BaBa TiLLu")](https://github-stats-alpha.vercel.app/api?username=Sagexdd "BaBa TiLLu")
-                                                          
-
-
-
-<!--
-**Sagexdd/Sagexdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-<p align="center">
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/Sagexdd/count.svg" />
 </p>
 
 [![yuvrxj.apk's Discord status](https://dsc-readme.tsuni.dev/api/user/977229749539713116?aboutMe=O%E1%B4%A1%C9%B4%E1%B4%A2%0Ahttps%3A%2F%2Fharmonix-gg.vercel.app%2F%0Ahttps%3A%2F%2Ftop.gg%2Fbot%2F1356181162099347517%2Fvote&banner=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F1353311244483821633%2F1421749668681089024%2F017cf4d7d7200e2b9f2bd5f731c17e0c.gif%3Fex%3D68da2b0f%26is%3D68d8d98f%26hm%3Dddc37eaf6621d5fd9ccfd42d03d6a7abab8b0e6daeb73a85b82b83c3a7dd303a%26&theme=nitroDark&primaryColor=000000&accentColor=FFFFFF&width=512)](https://github.com/TetraTsunami/discord-github-preview)
