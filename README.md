@@ -18,7 +18,7 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/Sagexdd/count.svg" />
 </p>
 
-[![yuvrxj.apk's Discord status](https://dsc-readme.tsuni.dev/api/user/977229749539713116?aboutMe=Information+%3A%0Ahttps%3A%2F%2Fxecute.me%2F%0A&theme=dark&width=512&animate=true)](https://github.com/TetraTsunami/discord-github-preview)
+[![yuvrxj.apk's Discord status](https://dsc-readme.tsuni.dev/api/user/977229749539713116?aboutMe=O%E1%B4%A1%C9%B4%E1%B4%A2%0Ahttps%3A%2F%2Fharmonix-gg.vercel.app%2F%0Ahttps%3A%2F%2Ftop.gg%2Fbot%2F1356181162099347517%2Fvote&banner=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F1353311244483821633%2F1421749668681089024%2F017cf4d7d7200e2b9f2bd5f731c17e0c.gif%3Fex%3D68da2b0f%26is%3D68d8d98f%26hm%3Dddc37eaf6621d5fd9ccfd42d03d6a7abab8b0e6daeb73a85b82b83c3a7dd303a%26&theme=nitroDark&primaryColor=000000&accentColor=FFFFFF&width=512)](https://github.com/TetraTsunami/discord-github-preview)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sagexdd&label=Profile%20views&color=0e75b6&style=flat" alt="Sagexdd" />
   <a href="https://github.com/Sagexdd?tab=followers">
