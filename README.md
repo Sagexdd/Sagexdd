@@ -4,8 +4,7 @@
  ㅤ ㅤ ㅤㅤ[![GIF](https://github.com/Sagexdd/Sagexdd/blob/main/Sagexdd.gif)](https://github.com/Sagexdd)
    [![TEAM HARMONIX](https://github-stats-alpha.vercel.app/api?username=Sagexdd "BaBa TiLLu")](https://github-stats-alpha.vercel.app/api?username=Sagexdd "BaBa TiLLu")
                                                           
-  
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🌿+BaBa TiLLu+⚡">
+
 
 
 <!--
