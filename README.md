@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
- ㅤ ㅤ ㅤㅤ[![GIF](https://github.com/Sagexdd/Sagexdd/blob/main/Sagexdd.gif)](https://github.com/Sagexdd)
+ ㅤ ㅤ  [![TEAM HARMONIX](https://github-stats-alpha.vercel.app/api?username=Sagexdd "BaBa TiLLu")](https://github-stats-alpha.vercel.app/api?username=Sagexdd "BaBa TiLLu")
                                                           
 
 
