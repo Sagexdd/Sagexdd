@@ -35,7 +35,7 @@
 # 🛠️ Languages and tools☠︎︎
 </br>
 
-[![Languages and Tools](https://skillicons.dev/icons?=bash,vscode,github,mongodb,java,html,py,js&perline=10)](https://Sagexdd.me)
+[![Languages and Tools](https://skillicons.dev/icons?i=bash,vscode,github,mongodb,java,html,py,js&perline=10)](https://Sagexdd.me)
 
 
 
