@@ -3,7 +3,7 @@
 
 </p>
 
-[![yuvrxj.apk's Discord status](https://dsc-readme.tsuni.dev/api/user/977229749539713116?aboutMe=Nothing+just+a+useless+developer+with+0+bots+owned.+%0Ahttps%3A%2F%2Fharmonix.qzz.io%2F%0Ahttps%3A%2F%2Fdiscord.gg%2Fzenkaix&theme=nitroDark&primaryColor=000000&accentColor=ff0000&width=512)](https://github.com/TetraTsunami/discord-github-preview)
+[![yuvrxj.apk's Discord status](https://dsc-readme.tsuni.dev/api/user/977229749539713116?aboutMe=Nothing+just+a+useless+developer+with+0+bots+owned.+%0Ahttps%3A%2F%2Fharmonix.qzz.io%2F%0Ahttps%3A%2F%2Fdiscord.gg%2Fzenkaix&theme=nitroLight&primaryColor=000000&accentColor=f2ecec&width=680)](https://github.com/TetraTsunami/discord-github-preview)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sagexdd&label=Profile%20views&color=0e75b6&style=flat" alt="Sagexdd" />
   <a href="https://github.com/Sagexdd?tab=followers">
