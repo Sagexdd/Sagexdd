@@ -35,14 +35,14 @@
     <td align="center">
       <a href="https://github.com/Sagexdd">
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagexdd&layout=compact&theme=radical"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagexdd&layout=compact&theme=tokyonight"
           alt="Top Languages"
         />
       </a>
     </td>
     <td align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Sagexdd&show_icons=true&theme=radical"
+        src="https://github-readme-stats.vercel.app/api?username=Sagexdd&show_icons=true&theme=tokyonight"
         alt="GitHub Stats"
       />
     </td>
@@ -50,7 +50,7 @@
   <tr>
     <td colspan="2" align="center">
       <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Sagexdd&theme=radical"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Sagexdd&theme=tokyonight"
         alt="GitHub Streak"
       />
     </td>
