@@ -33,25 +33,15 @@
 <table align="center" width="100%" height="100%">
   <tr>
     <td align="center">
-      <a href="https://github.com/Sagexdd">
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagexdd&layout=compact&theme=tokyonight"
-          alt="Top Languages"
-        />
-      </a>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagexdd&layout=compact&theme=dark"
+        alt="Top Languages"
+      />
     </td>
     <td align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Sagexdd&show_icons=true&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api?username=Sagexdd&show_icons=true&theme=dark"
         alt="GitHub Stats"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Sagexdd&theme=tokyonight"
-        alt="GitHub Streak"
       />
     </td>
   </tr>
