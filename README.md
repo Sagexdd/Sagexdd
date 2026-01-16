@@ -28,9 +28,34 @@
 
 
 
-# Github Streak ☠︎︎
+## 📊 My GitHub Stats
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Sagexdd&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&fire=FF8100)](https://Sagexdd.me)
+<table align="center" width="100%" height="100%">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Sagexdd">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagexdd&layout=compact&theme=radical"
+          alt="Top Languages"
+        />
+      </a>
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Sagexdd&show_icons=true&theme=radical"
+        alt="GitHub Stats"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Sagexdd&theme=radical"
+        alt="GitHub Streak"
+      />
+    </td>
+  </tr>
+</table>
 
 # 🛠️ Languages and tools☠︎︎
 </br>
