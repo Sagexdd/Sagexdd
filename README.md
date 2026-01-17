@@ -41,7 +41,7 @@
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagexdd&theme=dark" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Sagexdd&theme=dark" alt="Streak Stats" />
 </p>
 <p align="center">
   <img src="https://ghactivity.mrayush.me/graph?username=Sagexdd&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Activity Graph" />
