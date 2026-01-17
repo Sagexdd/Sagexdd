@@ -23,23 +23,14 @@
 
 <h2 align="center">⚡ Developer Dashboard</h2>
 
-<div align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Sagexdd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com?user=Sagexdd&theme=radical&hide_border=true&background=0D1117&fire=FF0004&ring=FF0004&currStreakLabel=FF0004" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagexdd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sagexdd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="Sagexdd's Stats" />
+  <img src="https://streak-stats.demolab.com?user=Sagexdd&theme=radical&hide_border=true&background=0D1117&fire=FF0004&ring=FF0004&currStreakLabel=FF0004" height="180" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagexdd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" height="180" alt="Top Languages" />
+</p>
 
 ---
 
