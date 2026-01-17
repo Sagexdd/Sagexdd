@@ -15,11 +15,8 @@
       <img src="https://img.shields.io/github/followers/Sagexdd?style=for-the-badge&logo=github&color=0d1117&labelColor=FF0004&label=" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=Sagexdd&label=&color=0d1117&style=for-the-badge&labelColor=FF0004&logo=github" />
-    <a href="https://instagram.com/kaun.yuvraj">
-      <img src="https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white&color=0d1117&labelColor=E4405F" />
-    </a>
-    <a href="mailto:yuvrajjaiswal8568@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=white&color=0d1117&labelColor=D14836" />
+    <a href="https://discord.gg/FXusmvvgJ4Q">
+      <img src="https://img.shields.io/badge/-Support-0d1117?style=for-the-badge&logo=discord&logoColor=white&color=0d1117&labelColor=5865F2" />
     </a>
   </p>
 
