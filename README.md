@@ -1,20 +1,20 @@
 <div align="center">
  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=System.out.println(%22Hello+World!%22)%3B;I+am+Sagexdd;Full+Stack+Developer;Welcome+to+my+profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0004&center=true&vCenter=true&width=435&lines=System.out.println(%22Hello+World!%22)%3B;I+am+Sagexdd;Full+Stack+Developer;Welcome+to+my+profile" alt="Typing SVG" />
   
   <br/>
 
   <a href="https://github.com/TetraTsunami/discord-github-preview">
-    <img src="https://dsc-readme.tsuni.dev/api/user/977229749539713116?aboutMe=Nothing+just+a+useless+developer+with+0+bots+owned.%0Ahttps%3A%2F%2Fharmonix.qzz.io%2F%0Ahttps%3A%2F%2Fdiscord.gg%2Fzenkaix&theme=tokyonight&primaryColor=a9b1d6&accentColor=7aa2f7&width=600" alt="Discord Status"/>
+    <img src="https://dsc-readme.tsuni.dev/api/user/977229749539713116?aboutMe=Nothing+just+a+useless+developer.%0Ahttps%3A%2F%2Fharmonix.qzz.io%2F%0Ahttps%3A%2F%2Fdiscord.gg%2FXusmvvgJ4Q%0Ahttps%3A%2F%2Fhostxnet.qzz.io%2F&theme=nitroDark&primaryColor=FF0004&accentColor=000000" alt="Discord Status"/>
   </a>
 
   <br/><br/>
 
   <p align="center">
     <a href="https://github.com/Sagexdd?tab=followers">
-      <img src="https://img.shields.io/github/followers/Sagexdd?style=for-the-badge&logo=github&color=2e3440&labelColor=88c0d0" />
+      <img src="https://img.shields.io/github/followers/Sagexdd?style=for-the-badge&logo=github&color=000000&labelColor=FF0004" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=Sagexdd&label=PROFILE%20VIEWS&color=2e3440&style=for-the-badge&labelColor=bf616a" />
+    <img src="https://komarev.com/ghpvc/?username=Sagexdd&label=PROFILE%20VIEWS&color=000000&style=for-the-badge&labelColor=FF0004" />
   </p>
 
 </div>
@@ -27,15 +27,15 @@
   <table align="center">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Sagexdd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Sagexdd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com?user=Sagexdd&theme=tokyonight&hide_border=true&background=0D1117&fire=FF4500" />
+        <img src="https://streak-stats.demolab.com?user=Sagexdd&theme=radical&hide_border=true&background=0D1117&fire=FF0004&ring=FF0004&currStreakLabel=FF0004" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagexdd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagexdd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" />
       </td>
     </tr>
   </table>
@@ -45,7 +45,7 @@
 
 <h2 align="center">📈 Coding Frequency</h2>
 <div align="center">
-  <img src="https://ghactivity.mrayush.me/graph?username=Sagexdd&bg_color=0D1117&color=7aa2f7&line=c0caf5&point=ffffff&hide_border=true" />
+  <img src="https://ghactivity.mrayush.me/graph?username=Sagexdd&bg_color=0D1117&color=FF0004&line=FF0004&point=ffffff&hide_border=true" />
 </div>
 
 ---
