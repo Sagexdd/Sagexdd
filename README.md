@@ -24,10 +24,7 @@
 
 ---
 
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25" />
-  Developer Dashboard
-</h3>
+### `>_ root@Sagexdd:~/stats# ./dashboard.sh`
 
 <table align="center" width="100%" style="border: none;">
   <tr>
@@ -42,10 +39,7 @@
 
 ---
 
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Graph" width="25" height="25" />
-  Coding Activity
-</h3>
+### `>_ root@Sagexdd:~/activity# git log --graph`
 
 <div align="center">
   <img src="https://ghactivity.mrayush.me/graph?username=Sagexdd&bg_color=0D1117&color=FF0004&line=FF0004&point=ffffff&hide_border=true" />
@@ -53,10 +47,7 @@
 
 ---
 
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" />
-  Weapons of Choice
-</h3>
+### `>_ root@Sagexdd:~/bin# cat tools.txt`
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,py,js,html,css,bash,vscode,github,mongodb,mysql,git,docker,linux&perline=14&theme=dark" />
