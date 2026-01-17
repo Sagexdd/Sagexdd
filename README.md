@@ -8,27 +8,36 @@
     <img src="https://dsc-readme.tsuni.dev/api/user/977229749539713116?aboutMe=Nothing+just+a+useless+developer.%0Ahttps%3A%2F%2Fharmonix.qzz.io%2F%0Ahttps%3A%2F%2Fdiscord.gg%2FXusmvvgJ4Q%0Ahttps%3A%2F%2Fhostxnet.qzz.io%2F&theme=nitroDark&primaryColor=FF0004&accentColor=000000" alt="Discord Status"/>
   </a>
 
-  <br/><br/>
+  <br/>
 
   <p align="center">
     <a href="https://github.com/Sagexdd?tab=followers">
-      <img src="https://img.shields.io/github/followers/Sagexdd?style=for-the-badge&logo=github&color=000000&labelColor=FF0004" />
+      <img src="https://img.shields.io/github/followers/Sagexdd?style=for-the-badge&logo=github&color=0d1117&labelColor=FF0004&label=" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=Sagexdd&label=PROFILE%20VIEWS&color=000000&style=for-the-badge&labelColor=FF0004" />
+    <img src="https://komarev.com/ghpvc/?username=Sagexdd&label=&color=0d1117&style=for-the-badge&labelColor=FF0004&logo=github" />
+    <a href="https://instagram.com/kaun.yuvraj">
+      <img src="https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white&color=0d1117&labelColor=E4405F" />
+    </a>
+    <a href="mailto:yuvrajjaiswal8568@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=white&color=0d1117&labelColor=D14836" />
+    </a>
   </p>
 
 </div>
 
 ---
 
-<h2 align="center">⚡ Developer Dashboard</h2>
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25" />
+  Developer Dashboard
+</h3>
 
-<table align="center" width="100%">
+<table align="center" width="100%" style="border: none;">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border: none;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sagexdd&theme=radical" alt="Top Languages" />
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border: none;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sagexdd&theme=radical" alt="GitHub Stats" />
     </td>
   </tr>
@@ -36,22 +45,28 @@
 
 ---
 
-<h2 align="center">📈 Coding Frequency</h2>
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Graph" width="25" height="25" />
+  Coding Activity
+</h3>
+
 <div align="center">
   <img src="https://ghactivity.mrayush.me/graph?username=Sagexdd&bg_color=0D1117&color=FF0004&line=FF0004&point=ffffff&hide_border=true" />
 </div>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" />
+  Weapons of Choice
+</h3>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,js,html,css,bash,vscode,github,mongodb,mysql&perline=15&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,py,js,html,css,bash,vscode,github,mongodb,mysql,git,docker,linux&perline=14&theme=dark" />
 </div>
 
----
+<br />
 
 <div align="center">
-  <a href="mailto:yuvrajjaiswal8568@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100">
 </div>
