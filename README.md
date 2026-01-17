@@ -32,11 +32,6 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sagexdd&theme=radical" alt="GitHub Stats" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="./streak-stats.svg" alt="GitHub Streak" />
-    </td>
-  </tr>
 </table>
 
 ---
