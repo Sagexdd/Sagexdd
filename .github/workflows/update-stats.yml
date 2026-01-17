@@ -1,0 +1,26 @@
+name: Update Stats Images
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Runs every 12 hours
+  workflow_dispatch: # Allows you to run it manually
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Download Streak Stats
+        run: |
+          curl "https://streak-stats.demolab.com?user=Sagexdd&theme=radical&hide_border=true&background=0D1117&fire=FF0004&ring=FF0004&currStreakLabel=FF0004" -o streak-stats.svg
+          
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add streak-stats.svg
+          git commit -m "Update stats images" || exit 0
+          git push
