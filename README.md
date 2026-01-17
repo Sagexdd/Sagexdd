@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=Sagexdd&theme=radical&hide_border=true&background=141321&fire=FF0004&ring=FF0004&currStreakLabel=FF0004" alt="GitHub Streak" />
+      <img src="./streak-stats.svg" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
