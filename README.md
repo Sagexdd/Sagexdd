@@ -63,7 +63,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100">
 </div>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1a1a&height=140&section=footer"/>
 </div><div align="center">
   <sub> HAR HAR MAHADEV 🕉️❤️ </sub>
 </div>
