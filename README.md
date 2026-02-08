@@ -33,9 +33,6 @@
 <table align="center" width="100%" style="border: none;">
   <tr>
     <td align="center" width="50%" style="border: none;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sagexdd&theme=radical" alt="Top Languages" />
-    </td>
-    <td align="center" width="50%" style="border: none;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sagexdd&theme=radical" alt="GitHub Stats" />
     </td>
   </tr>
