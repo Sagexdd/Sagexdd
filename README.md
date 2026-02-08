@@ -54,7 +54,7 @@
 ### `>_ root@Sagexdd:~/bin# cat tools.txt`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,js,html,css,bash,vscode,github,mongodb,mysql,git,docker,linux&perline=14&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,js,vscode,github,mongodb,git,linux&perline=14&theme=dark" />
 </div>
 
 <br />
