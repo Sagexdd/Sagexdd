@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=header&text=!%20%20%20%20%20%20%20%20%20%20%20𝑃𝑟𝑜𝑑𝑢𝑐𝑒𝑟%20I'm%20Here&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+</div>
+
+<div align="center">
  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0004&center=true&vCenter=true&width=435&lines=System.out.println(%22Hello+World!%22)%3B;I+am+Sagexdd;Full+Stack+Developer;Welcome+to+my+profile" alt="Typing SVG" />
   
@@ -57,4 +61,9 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100">
+</div>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer"/>
+</div><div align="center">
+  <sub> HAR HAR MAHADEV 🕉️❤️ </sub>
 </div>
