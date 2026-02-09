@@ -4,12 +4,6 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Sagexdd&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Sagexdd)
 
-<div align="center">
- 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0004&center=true&vCenter=true&width=435&lines=System.out.println(%22Hello+World!%22)%3B;I+am+Sagexdd;Full+Stack+Developer;Welcome+to+my+profile" alt="Typing SVG" />
-  
-  <br/>
-
   <a href="https://github.com/TetraTsunami/discord-github-preview">
     <img src="https://dsc-readme.tsuni.dev/api/user/977229749539713116?aboutMe=Nothing+just+a+useless+developer.%0Ahttps%3A%2F%2Fharmonix.qzz.io%2F%0Ahttps%3A%2F%2Fdiscord.gg%2FXusmvvgJ4Q%0Ahttps%3A%2F%2Fhostxnet.qzz.io%2F&theme=nitroDark&primaryColor=FF0004&accentColor=000000" alt="Discord Status"/>
   </a>
@@ -34,6 +28,9 @@
 
 <table align="center" width="100%" style="border: none;">
   <tr>
+    <td align="center" width="50%" style="border: none;">
+      <img src="./streak-stats.svg" alt="GitHub Streak Stats" />
+    </td>
     <td align="center" width="50%" style="border: none;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sagexdd&theme=radical" alt="GitHub Stats" />
     </td>
