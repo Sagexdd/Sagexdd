@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1a1a&height=200&section=header&text=!%20%20%20%20%20%20%20%20%20%20%20𝑃𝑟𝑜𝑑𝑢𝑐𝑒𝑟%20Here&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 </div>
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Sagexdd&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Sagexdd)
+
 <div align="center">
  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0004&center=true&vCenter=true&width=435&lines=System.out.println(%22Hello+World!%22)%3B;I+am+Sagexdd;Full+Stack+Developer;Welcome+to+my+profile" alt="Typing SVG" />
