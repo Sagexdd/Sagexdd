@@ -52,7 +52,7 @@
 ### `>_ root@Sagexdd:~/bin# cat tools.txt`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,vscode,github,mongodb,git,postman,react,html,linux&perline=14&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,js,vscode,github,mongodb,git,postman,react,html,python,typescript,linux&perline=14&theme=dark" />
 </div>
 
 <br />
